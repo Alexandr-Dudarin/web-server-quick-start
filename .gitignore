@@ -41,3 +41,8 @@ lerna-debug.log*
 
 # Visual Studio Code project files
 **/.vscode/
+
+node_modules/
+**/node_modules/
+.env
+npm-debug.log*
